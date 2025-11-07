@@ -58,9 +58,6 @@ TS.ADD weather:ts:singapore 1699000060 28  # Second reading stored independently
 
 - **Node.js** (v18 or higher)
 - **npm** or **yarn**
-- **Redis Cloud** account with **Redis Stack** enabled
-  - Sign up at https://redis.com/try-free/
-  - Enable **Redis Stack** module for TimeSeries support
 
 ## 🚀 Installation
 
